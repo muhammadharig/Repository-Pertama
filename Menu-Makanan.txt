@@ -4,10 +4,9 @@ Berikut Ini Adalah Menu Makanan Favorit Saya :
 - Mie Aceh
   ^ Makanan Favorit Teman :
     - Burger
-    - Ayam Kampung
-    - Ikan Bakar
     - Ayam Geprek
     - Ikan Nila Bakar
+    - Ikan Kakap Bakar
     
 - Ayam Penyet
 - Bakso
