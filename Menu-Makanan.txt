@@ -1,13 +1,21 @@
 Berikut Ini Adalah Menu Makanan Favorit Saya :
 - Nasi Goreng
 - Mie Ayam
-- Ayam Bakar
+- Mie Aceh
+  ^ Makanan Favorit Teman :
+    - Burger
+    - Pizza
+    - Ikan Bakar
+    - Ayam Geprek
 - Ayam Penyet
 - Bakso
 
 Menu Minuman Favorit Saya :
-- Jus Alpukat
 - Jus Mangga
+  ^ Menu Minuman Premium 
+    - Fanta
+    - Es Teh
+    - Kopi Susu
 - Fanta
-- Es Teh
 - Jus Blueberry
+- Jus Melon
