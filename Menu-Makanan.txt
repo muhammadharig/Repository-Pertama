@@ -3,9 +3,11 @@ Berikut Ini Adalah Menu Makanan Favorit Saya :
 - Mie Ayam
 - Ayam Bakar
 - Ayam Penyet
+- Bakso
 
 Menu Minuman Favorit Saya :
 - Jus Alpukat
 - Jus Mangga
-- Spirite
-- Kopi Susu
+- Fanta
+- Es Teh
+- Jus Blueberry
